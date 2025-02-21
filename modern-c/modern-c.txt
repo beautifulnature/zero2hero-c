@@ -1,0 +1,84 @@
+# Modern C
+Jens Gustedt
+
+## Level 0 Encounter
+
+### 1. Getting Started
+
+This chapter covers
+
+. Introduction to imperative programming
+
+. Compiling and running code
+
+In this chapter, I will introduce you to one simple program that has been chosen because it contains many of the constructs of the C language.
+If you already have programming experience, you may find that parts of it feel like needless repetition.
+If you lack such experience, you might feel overwhelmed by the stream of new terms and concepts.
+
+In either case, be patient.
+For those of you with programming experience, it's very possible that there are subtle details you're not aware of, or assumptions you have made about the language that are not valid, even if you have programmed C before.
+For those approaching programming for the first time, be assured that after approximately 10 pages your understanding will have increased a lot, and you should have a much clearer idea of what programming represents.
+
+An important bit of wisdom of programming in general, and for this book in particular, is summarized in the following citation from the Hitchhiker's Guide to the Galaxy by Douglas Adams [1986]:
+
+TAKEAWAY B Don't panic.
+
+It's not worth it.
+There are many cross references, links, and bits of side information in the text, and there is an indext at the end.
+Follow those if you have a question.
+Or just take a break.
+
+Programming in C is about having the computer complete some specific tasks.
+A C program does that by giving orders, much as we would express such orders in the imperative tense in many human languages; thus the term `imperative programming` for this particular way of organizing computer programs.
+
+To get started and see what we are talking about, consider our first program in listing 1.1:
+
+
+
+### 2. The principal structure of a program
+
+## Level 1 Acquaintance
+
+### 3. Everything is about control
+
+### 4. Expressing computations
+
+### 5. basic values and data
+
+### 6. Derived data types
+
+### 7. Functions
+
+### 8. C library functions
+
+## Level 2 Congintion
+
+### 9. Style
+
+### 10. Organisation and documentation
+
+### 11. Pointers
+
+### 12. The C memory model
+
+### 13. Storage
+
+### 14. More involved processing and IO
+
+## Level 3 Experience
+
+### 15. Performance
+
+### 16. Function like macros
+
+### 17. Variations in control flow
+
+### 18. Threads
+
+### 19. Atomic access and memory consistency
+
+### Takeaways
+
+### Bibliography
+
+### Index
