@@ -1,0 +1,8 @@
+# Modern C Quick Syntax Reference
+
+A pocket guide to the language, APIs, and Library
+Second Edition
+Mikael Olsson
+Apress
+
+## Chapter 1 Hello World
